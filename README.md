@@ -70,7 +70,7 @@ Objective: Test the robot on the practice track to verify that all components ar
 
 ----
 ## Mission Robotics
-WRO ® Futuros Ingenieros: Se trata de crear un robot a base de nuestra creatividad, para que de vueltas en una pista por 3 vueltas con diferentes obstaculosm evitar las paredes, y parquear el robot.  Los estudiantes crearán  un robot autónomo que pueda resolver retos  específicos en una pista según la temática del año y el grupo de edad.
+WRO ® Future Engineers: This involves creating a robot based on our creativity, which can navigate a track for three laps with different obstacles, avoid walls, and park the robot. The robot also needs to solve specific challenges on a track based on the year's theme and age group.
 ----
 
 [Table of Contents](#table-of-contents)
