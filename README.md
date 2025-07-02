@@ -5,8 +5,9 @@ A  robotic team to participate in the WRO in the category of future engineers.
 
 ## Table of Contents
 - [Meet Our Team](#meet-our-team)
-    - [Ana Victoria](#ana-victoria)
-    - [Christel Choa](#christel-choa)
+    - [Javier Figueira](#javier-figueira)
+    - [Mariano Pertuz](#mariano-pertuz)
+    - [Juan Dario Smith](#juan-dario-smith)
     - [Coach Victor](#coach-victor)
 - [Structure of the New Mustang Robot](#structure-of-the-newmustang-robot)
 - [Components](#Components)
@@ -15,8 +16,8 @@ A  robotic team to participate in the WRO in the category of future engineers.
 - [Mission Robotics](#mission-robotics)
 
 ## Meet Our Team
-## Ana Victoria
-![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
+## Javier Figueira
+![Javier F.](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
 ## Christel Choa
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 ## Coach Victor
