@@ -1,5 +1,6 @@
-# MustangsUp
-![Header NewMustang](https://github.com/user-attachments/assets/59eaede0-5096-47ab-885c-95a22dfc39bf)
+# Mustangs Up
+![Header NewMustang](https://github.com/user-attachments/assets/f6bb8e65-03af-4a8c-b588-e73cd833fe5e)
+)
 A  robotic team to participate in the WRO in the category of future engineers. 
 
 ## Table of Contents
@@ -14,24 +15,24 @@ A  robotic team to participate in the WRO in the category of future engineers.
 - [Programming](#programming)
 - [Mission Robotics](#mission-robotics)
 
-## Meet THE Team
+## Know THE Team
 ## Javier Figueira
 ![Javier F.](https://github.com/user-attachments/assets/6a9762ae-b1dd-430e-a2d1-2f63d37327ef)
 
-I am Javier Figueira, I have 17 years of age, I turn 18 in may 15 and Im in eleventh grade. I have two brothers who are older than me. I think that robotics is a interesting and unique hobby where you can learn a lot of things, like programming or building the robot. I also do karate and music outside of the school. Im in two bands right now, with those being: Asther and The Crickets. I also teach karate classes every monday, wednesday and friday. Although teaching can be kinda hard, I still love teaching karate.
+I am Javier Figueira, I'm 17 years of age, I turn 18 in may 15 and Im in eleventh grade. I have two brothers who are older than me. I think that robotics is a interesting and unique hobby where you can learn a lot of things, like programming or building the robot. I also do karate and music outside of the school. Im in two bands right now, with those being: Asther and The Crickets. I also teach karate classes every monday, wednesday and friday. Although teaching can be kinda hard, I still love teaching karate.
 ## Mariano Pertuz
 ![Mariano Pertruz](https://github.com/user-attachments/assets/50dce4f0-bf44-47d2-9be6-9e5e9cbb00c2)
 
-My name is Mariano Pertuz, I am 15 years old, and I enjoy playing video games. I also like to learn more about robotics. In my free time, I practice jiu-jitsu. During class time, I strive to study and learn from my mistakes. When I was little, I practiced swimming and won swimming medals, but over time I started to not like swimming anymore, and I left it behind.
+My name is Mariano Pertuz. I am 15 years old, and I enjoy playing video games. I also like to learn more about robotics. In my free time, I practice jiu-jitsu. During class time, I strive to study and learn from my mistakes. When I was little, I practiced swimming and won swimming medals, but over time I started to not like swimming anymore, and I left it behind.
 ## Juan Dario Smith
 ![Juan Dario](https://github.com/user-attachments/assets/087a0ec3-61d7-4100-817c-94badf288dd0)
 
-My name is Juan Darío Smith Quijano, and I'm 15 years old. I enjoy soccer and volleyball. I'm also part of my Robotics and Debate groups. I'm in the 10th grade of PAS Sciences. I'm enthusiastic, fun, and a good teammate who helps my classmates. I'm cheerful. I enjoy traveling, playing video games, and spending time with my family.
+My name is Juan Darío Smith, and I'm 15 years old. I enjoy soccer and volleyball. I'm also part of my Robotics and Debate groups. I'm in the 10th grade of PAS Sciences. I'm enthusiastic, fun, and a good teammate who helps my classmates. I'm cheerful, I enjoy traveling, playing video games, and spending time with my family.
 ## Coach Victor
 ![Coach Victor ](https://github.com/user-attachments/assets/14083c9a-3e14-4f7c-affd-07145e2c2163)
 ----
 
-## Structure of the New Mustang Robot
+## Structure of the Mustangs Up Robot
 Prototype
 ![1](https://github.com/user-attachments/assets/beb112f1-44ea-499a-a354-d555bb66d4ee)
 ----
