@@ -27,7 +27,7 @@ I am Javier Figueira, I have 17 years of age, I turn 18 in may 15 and Im in elev
 
 My name is Juan Darío Smith Quijano, and I'm 15 years old. I enjoy soccer and volleyball. I'm also part of my Robotics and Debate groups. I'm in the 10th grade of PAS Sciences. I'm enthusiastic, fun, and a good teammate who helps my classmates. I'm cheerful. I enjoy traveling, playing video games, and spending time with my family.
 ## Coach Victor
-![Coach Victor ]((https://github.com/user-attachments/assets/14083c9a-3e14-4f7c-affd-07145e2c2163)
+![Coach Victor ](https://github.com/user-attachments/assets/14083c9a-3e14-4f7c-affd-07145e2c2163)
 ----
 
 ## Structure of the New Mustang Robot
