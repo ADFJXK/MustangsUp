@@ -23,7 +23,7 @@ I am Javier Figueira, I have 17 years of age, I turn 18 in may 15 and Im in elev
 ## Mariano Pertuz
 ![Pertuz](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 ## Juan Dario Smith
-![Smith](![Juan Dario](https://github.com/user-attachments/assets/087a0ec3-61d7-4100-817c-94badf288dd0)
+![Juan Dario](https://github.com/user-attachments/assets/087a0ec3-61d7-4100-817c-94badf288dd0)
 
 My name is Juan Darío Smith Quijano, and I'm 15 years old. I enjoy soccer and volleyball. I'm also part of my Robotics and Debate groups. I'm in the 10th grade of PAS Sciences. I'm enthusiastic, fun, and a good teammate who helps my classmates. I'm cheerful. I enjoy traveling, playing video games, and spending time with my family.
 ## Coach Victor
