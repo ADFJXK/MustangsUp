@@ -17,9 +17,11 @@ A  robotic team to participate in the WRO in the category of future engineers.
 
 ## Meet Our Team
 ## Javier Figueira
-![Javier F.](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
-## Christel Choa
-![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
+![Javier F.](https://github.com/user-attachments/assets/6a9762ae-b1dd-430e-a2d1-2f63d37327ef)
+## Mariano Pertuz
+![Pertuz](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
+## Juan Dario Smith
+![Smith](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 ## Coach Victor
 ![Coach Victor ](https://github.com/user-attachments/assets/582cdc1f-ef37-4b52-9229-0be11581f89d)
 ----
