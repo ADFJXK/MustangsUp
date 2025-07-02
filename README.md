@@ -73,4 +73,3 @@ Objective: Test the robot on the practice track to verify that all components ar
 WRO ® Future Engineers: This involves creating a robot based on our creativity, which can navigate a track for three laps with different obstacles, avoid walls, and park the robot. The robot also needs to solve specific challenges on a track based on the year's theme and age group.
 ----
 
-[Table of Contents](#table-of-contents)
