@@ -14,7 +14,7 @@ A  robotic team to participate in the WRO in the category of future engineers.
 - [Programming](#programming)
 - [Mission Robotics](#mission-robotics)
 
-## Meet Our Team
+## Meet THE Team
 ## Javier Figueira
 ![Javier F.](https://github.com/user-attachments/assets/6a9762ae-b1dd-430e-a2d1-2f63d37327ef)
 
