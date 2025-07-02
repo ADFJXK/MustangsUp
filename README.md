@@ -43,7 +43,8 @@ Description of each part
 ![4](https://github.com/user-attachments/assets/c6d43c53-72da-45ce-9059-8a77321ea373)
 ----
 ## Components
-![Component Map](https://github.com/user-attachments/assets/7298b296-3010-4794-9217-b49bc0c5412e)
+![Component Map](https://github.com/user-attachments/assets/c9652598-70ad-4ff0-81c0-faa465f5e94b)
+
 
 Robot Component Map
 1. Central Unit (Hub): Brain of the robot, Receives and processes sensor data and Sends commands to motors
