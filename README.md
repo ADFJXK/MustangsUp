@@ -33,11 +33,11 @@ My name is Juan Darío Smith Quijano, and I'm 15 years old. I enjoy soccer and v
 ----
 
 ## Structure of the New Mustang Robot
-#Prototype
+Prototype
 ![1](https://github.com/user-attachments/assets/beb112f1-44ea-499a-a354-d555bb66d4ee)
 ----
 
-#Description of each part
+Description of each part
 ![2](https://github.com/user-attachments/assets/7b94125f-869d-4422-9496-98545f9f0855)
 ![3](https://github.com/user-attachments/assets/d462f6f9-b077-46f4-825f-4aca551d3206)
 ![4](https://github.com/user-attachments/assets/c6d43c53-72da-45ce-9059-8a77321ea373)
