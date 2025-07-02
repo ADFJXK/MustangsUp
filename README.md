@@ -9,7 +9,7 @@ A  robotic team to participate in the WRO in the category of future engineers.
     - [Mariano Pertuz](#mariano-pertuz)
     - [Juan Dario Smith](#juan-dario-smith)
     - [Coach Victor](#coach-victor)
-- [Structure of the New Mustang Robot](#structure-of-the-newmustang-robot)
+- [Structure of the New Mustang Robot](#structure-of-the-MustangsUp-robot)
 - [Components](#Components)
 - [Robot Track Practice](#robot-track-practice)
 - [Programming](#programming)
