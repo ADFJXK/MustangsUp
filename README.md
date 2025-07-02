@@ -29,7 +29,7 @@ I am Javier Figueira, I have 17 years of age, I turn 18 in may 15 and Im in elev
 ----
 
 ## Structure of the New Mustang Robot
-![Prototype](https://github.com/user-attachments/assets/6cb657ea-4d41-4950-802b-88867fec96a3)
+![Prototype](h![1](https://github.com/user-attachments/assets/beb112f1-44ea-499a-a354-d555bb66d4ee)
 ![Description](https://github.com/user-attachments/assets/f36fc052-006d-41dc-aaa5-b2d17daf594e)
 ![Ultrasonic](https://github.com/user-attachments/assets/2941ebbc-5b7f-4e76-9492-61b08ed07c74)
 ![Motors](https://github.com/user-attachments/assets/c4576df7-2ffd-438c-9043-0eac8145208b)
