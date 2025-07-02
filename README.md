@@ -43,13 +43,12 @@ Description of each part
 ![4](https://github.com/user-attachments/assets/c6d43c53-72da-45ce-9059-8a77321ea373)
 ----
 ## Components
-![Component Map](https://github.com/user-attachments/assets/c9652598-70ad-4ff0-81c0-faa465f5e94b)
+![Component Map](https://github.com/user-attachments/assets/43b8b3eb-3962-4f18-aba3-9dcd109bfcb0)
 
 
 Robot Component Map
 1. Central Unit (Hub): Brain of the robot, Receives and processes sensor data and Sends commands to motors
 2. Motors: Drive Motors: Provide movement to the wheels (left and right), Steering Motor (if separate): Controls direction or steering mechanism
-Arm/Lift 
 3. Sensors: Color Sensor: Detects colors and light intensity, Ultrasonic Sensor: Measures distance to obstacles
 4. Motors: Steering Motor (Direction Control Motor):
 Controls the steering mechanism of the robot and raction Motors (Drive or Propulsion Motors):
