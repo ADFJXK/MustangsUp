@@ -1,4 +1,4 @@
-# MustangsUp
+![4](https://github.com/user-attachments/assets/1cdc031d-cd7a-42ba-8d4f-bd1eac46dedc)# MustangsUp
 A  robotic team to participate in the WRO in the category of future engineers. 
 ![Header NewMustang](https://github.com/user-attachments/assets/59eaede0-5096-47ab-885c-95a22dfc39bf)
 
@@ -30,11 +30,9 @@ I am Javier Figueira, I have 17 years of age, I turn 18 in may 15 and Im in elev
 
 ## Structure of the New Mustang Robot
 ![Prototype](h![1](https://github.com/user-attachments/assets/beb112f1-44ea-499a-a354-d555bb66d4ee)
-![Description](https://github.com/user-attachments/assets/f36fc052-006d-41dc-aaa5-b2d17daf594e)
-![Ultrasonic](https://github.com/user-attachments/assets/2941ebbc-5b7f-4e76-9492-61b08ed07c74)
-![Motors](https://github.com/user-attachments/assets/c4576df7-2ffd-438c-9043-0eac8145208b)
-![Wheels-Hub](https://github.com/user-attachments/assets/0c414883-2ced-40e1-b5cd-5224cbeb778d)
-![Sensor2](https://github.com/user-attachments/assets/9fe3caab-1c9c-47ff-856e-0709edb62075)
+![Description](![2](https://github.com/user-attachments/assets/7b94125f-869d-4422-9496-98545f9f0855)
+![Description](![3](https://github.com/user-attachments/assets/d462f6f9-b077-46f4-825f-4aca551d3206)
+![Description](![4](https://github.com/user-attachments/assets/c6d43c53-72da-45ce-9059-8a77321ea373)
 ----
 ## Components
 ![Component Map](https://github.com/user-attachments/assets/7298b296-3010-4794-9217-b49bc0c5412e)
