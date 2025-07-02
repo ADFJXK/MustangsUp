@@ -1,7 +1,6 @@
 # MustangsUp
-A  robotic team to participate in the WRO in the category of future engineers. 
 ![Header NewMustang](https://github.com/user-attachments/assets/59eaede0-5096-47ab-885c-95a22dfc39bf)
-
+A  robotic team to participate in the WRO in the category of future engineers. 
 
 ## Table of Contents
 - [Meet Our Team](#meet-our-team)
