@@ -22,6 +22,8 @@ A  robotic team to participate in the WRO in the category of future engineers.
 I am Javier Figueira, I have 17 years of age, I turn 18 in may 15 and Im in eleventh grade. I have two brothers who are older than me. I think that robotics is a interesting and unique hobby where you can learn a lot of things, like programming or building the robot. I also do karate and music outside of the school. Im in two bands right now, with those being: Asther and The Crickets. I also teach karate classes every monday, wednesday and friday. Although teaching can be kinda hard, I still love teaching karate.
 ## Mariano Pertuz
 ![Pertuz](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
+
+My name is Mariano Pertuz, I am 15 years old, and I enjoy playing video games. I also like to learn more about robotics. In my free time, I practice jiu-jitsu. During class time, I strive to study and learn from my mistakes. When I was little, I practiced swimming and won swimming medals, but over time I started to not like swimming anymore, and I left it behind.
 ## Juan Dario Smith
 ![Juan Dario](https://github.com/user-attachments/assets/087a0ec3-61d7-4100-817c-94badf288dd0)
 
