@@ -66,7 +66,11 @@ OBJECTIVE: Test the robot on the practice track to verify that all of its functi
 ----
 
 ## Programming
-
+![Captura de pantalla 2025-07-03 103554](https://github.com/user-attachments/assets/26901d34-6b68-42ce-a865-ab0b2a5d7cd6)
+In the program, we have 3 main functions that makes the robot work.
+1. When the robot detects a distance of 80cm on the ultrasonic sensor F and the distance of the ultrasonic sensor D is closer than 70cm , it will turn left.
+2. When the robot detects a distance of 80cm on the ultrasonic sensor F and the distance of the ultrasonic sensor D is closer than 70cm , it will turn right.
+3. When the robot turns left or right, it will do that but in a specific speed and then continue with its program.
 ----
 ## Mission Robotics
 WRO ® Future Engineers: This involves creating a robot based on our creativity, which can navigate a track for three laps with different obstacles, avoid walls, and park the robot. The robot also needs to solve specific challenges on a track based on the year's theme and age group.
