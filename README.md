@@ -64,7 +64,9 @@ Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programaci�
 
 ----
 
-Estructura del Robot de Mustangs Up
+## Ubucación de Componentes
+
+<img width="431" height="242" alt="image" src="https://github.com/user-attachments/assets/9e47d65b-ecb7-4d27-8c16-3bb9ad88edba" />
 
 ----
 ## Componentes del Robot:
@@ -74,20 +76,21 @@ Estructura del Robot de Mustangs Up
 | | | |
 |`Motor de Transmición`| Inicia el movimiento del robot. | ![Motor](https://github.com/user-attachments/assets/a471900f-652c-4c3a-a040-767be80853a9) |
 | | | |
-|`Motor Direccional`| Motor de dirección (Motor de control de dirección): Controla la dirección del robot. | |
+|`Motor Direccional`| Motor de dirección (Motor de control de dirección): Controla la dirección del robot. |![Dirección](https://github.com/user-attachments/assets/219c5345-10a8-4694-9a05-435e56a9a57b) |
 | | | |
 |`Sensores de Color`| Sensor de color: Detecta los colores y la intensidad de la luz. | ![Color](https://github.com/user-attachments/assets/e70013d1-feef-43ea-8952-a4ee945046dc) |
 | | | |
-|`Sensor ultrasónico`| Mide la distancia a los obstáculos. | |
+|`Sensor ultrasónico`| Mide la distancia a los obstáculos. |![Distancia](https://github.com/user-attachments/assets/4a6eb76c-e943-49e6-9707-8827d9cda405) |
 | | | |
-|`Ruedas y neumáticos`| Proporcionan tracción y movilidad. Conectados a los motores de accionamiento. | |
+|`Ruedas y neumáticos`| Proporcionan tracción y movilidad. Conectados a los motores de accionamiento. | <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f827990a-e944-4250-83f2-8c5af85ef097" /> |
+
 ----
  ## Practica del Robot
-![Practice1](https://github.com/user-attachments/assets/2f6b08c6-20e2-46a2-8ba7-7729f4d60b95)
+Video del robot aqui.
 
- PRACTICE: Test the Robot on the Track.
-OBJECTIVE: Test the robot on the practice track to verify that all of its functions are working correctly.
-[Video/practice.mp4](https://youtube.com/shorts/UFMvW3aFJpc?feature=share)
+Pracitca: Probar el robot en la pista oficial de la competencia.
+Objetivo: Verificar que todos los componentes y funciones del robot funcionen correctamente.
+
 
 ----
 
@@ -99,6 +102,6 @@ El programa tiene tres funciones principales que hacen funcionar al robot.
 3. Cuando el robot gira a la izquierda o a la derecha, lo hace a una velocidad específica y luego continúa con su programa.
 ----
 ## Mission Robotics
-WRO ® Future Engineers: This involves creating a robot based on our creativity, which can navigate a track for three laps with different obstacles, avoid walls, and park the robot. The robot also needs to solve specific challenges on a track based on the year's theme and age group.
+Futuros Ingenieros WRO®: Esto implica crear un robot basado en nuestra creatividad, capaz de recorrer tres vueltas en una pista con diferentes obstáculos, evitar muros y estacionar. El robot también debe resolver desafíos específicos en una pista según la temática y la edad del año.
 ----
 
