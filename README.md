@@ -4,26 +4,26 @@
 Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
 
 ## Tabla de Contenido
-`Integrantes`: Contiene una descripción breve de cada persona del equipo y del coach. mas la foto individual de la persona en cuestión.
+`Integrantes:` Contiene una descripción breve de cada persona del equipo y del coach. mas la foto individual de la persona en cuestión.
 
  - [Javier Figueira](#javier-figueira)
  - [Mariano Pertuz](#mariano-pertuz)
  - [Juan Dario Smith](#juan-dario-smith)
  - [Coach Victor](#coach-victor)
 
-`Estructura del robot`: Contiene la estuctura del robot, donde esta ubicado cada componentne del robot.
+`Estructura del robot:` Contiene la estuctura del robot, donde esta ubicado cada componentne del robot.
 
  - [Estructura del Robot de Mustangs Up](#Estructura-del-Robot-de-Mustangs-Up)
 
-`Componentes`: Contiene los componentes del Robot. Incluye tambien una descripción breve de los componentes y sus funciones.
+`Componentes del Robot:` Contiene los componentes del Robot. Incluye tambien una descripción breve de los componentes y sus funciones.
     
- - [Componentes](#Componentes)
+ - [Componentes](#Componentes-del-Robot)
 
- `Practica del Robot`: Contiene el video del funcionamiento del robot en la pista oficial de la competencia.
+ `Practica del Robot:` Contiene el video del funcionamiento del robot en la pista oficial de la competencia.
 
 - [Practica del Robot](#Practica-del-Robot)
 
- `Programación`: Describe la programacíon del robot, detallando cada parte de la programación y como todo se lleva a cabo.
+ `Programación:` Describe la programacíon del robot, detallando cada parte de la programación y como todo se lleva a cabo.
  
 - [Programación](#Programación)
 ----
@@ -64,27 +64,25 @@ Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programaci�
 
 ----
 
-Description of each part
-![2](https://github.com/user-attachments/assets/7b94125f-869d-4422-9496-98545f9f0855)
-![3](https://github.com/user-attachments/assets/d462f6f9-b077-46f4-825f-4aca551d3206)
-![4](https://github.com/user-attachments/assets/c6d43c53-72da-45ce-9059-8a77321ea373)
-----
-## Components
-![Component Map](https://github.com/user-attachments/assets/43b8b3eb-3962-4f18-aba3-9dcd109bfcb0)
+Estructura del Robot de Mustangs Up
 
-
-Robot Component Map
-1. Central Unit (Hub): Brain of the robot, Receives and processes sensor data and Sends commands to motors
-2. Motors: Drive Motors: Provide movement to the wheels (left and right), Steering Motor (if separate): Controls direction or steering mechanism
-3. Sensors: Color Sensor: Detects colors and light intensity, Ultrasonic Sensor: Measures distance to obstacles
-4. Motors: Steering Motor (Direction Control Motor):
-Controls the steering mechanism of the robot and raction Motors (Drive or Propulsion Motors):
-Provide the main movement (forward and backward) connected to the wheels or tracks and Control the speed and acceleration of the robot.
-5. Wheels and Tires:
-Provide traction and mobility
-Connected to drive motors
 ----
- ## Robot Track Practice
+## Componentes del Robot:
+| Nombre | Descripción | Imagen |
+|--------|---------|---------|
+|`Unidad Central (Hub)`| Cerebro del robot. Recibe y procesa los datos de los sensores y envía comandos a los motores. | ![Hub](https://github.com/user-attachments/assets/e2ce97b4-7b3c-43fe-bf80-9ca0981c42a9) |
+| | | |
+|`Motor de Transmición`| Inicia el movimiento del robot. | ![Motor](https://github.com/user-attachments/assets/a471900f-652c-4c3a-a040-767be80853a9) |
+| | | |
+|`Motor Direccional`| Motor de dirección (Motor de control de dirección): Controla la dirección del robot. | |
+| | | |
+|`Sensores de Color`| Sensor de color: Detecta los colores y la intensidad de la luz. | ![Color](https://github.com/user-attachments/assets/e70013d1-feef-43ea-8952-a4ee945046dc) |
+| | | |
+|`Sensor ultrasónico`| Mide la distancia a los obstáculos. | |
+| | | |
+|`Ruedas y neumáticos`| Proporcionan tracción y movilidad. Conectados a los motores de accionamiento. | |
+----
+ ## Practica del Robot
 ![Practice1](https://github.com/user-attachments/assets/2f6b08c6-20e2-46a2-8ba7-7729f4d60b95)
 
  PRACTICE: Test the Robot on the Track.
@@ -93,12 +91,12 @@ OBJECTIVE: Test the robot on the practice track to verify that all of its functi
 
 ----
 
-## Programming
+## Programación
 ![Captura de pantalla 2025-07-03 103554](https://github.com/user-attachments/assets/26901d34-6b68-42ce-a865-ab0b2a5d7cd6)
-In the program, we have 3 main functions that makes the robot work.
-1. When the robot detects a distance of 80cm on the ultrasonic sensor F and the distance of the ultrasonic sensor D is closer than 70cm , it will turn left.
-2. When the robot detects a distance of 80cm on the ultrasonic sensor F and the distance of the ultrasonic sensor D is closer than 70cm , it will turn right.
-3. When the robot turns left or right, it will do that but in a specific speed and then continue with its program.
+El programa tiene tres funciones principales que hacen funcionar al robot.
+1. Cuando el robot detecta una distancia de 80 cm en el sensor ultrasónico F y la distancia del sensor ultrasónico D es menor a 70 cm, gira a la izquierda.
+2. Cuando el robot detecta una distancia de 80 cm en el sensor ultrasónico F y la distancia del sensor ultrasónico D es menor a 70 cm, gira a la derecha.
+3. Cuando el robot gira a la izquierda o a la derecha, lo hace a una velocidad específica y luego continúa con su programa.
 ----
 ## Mission Robotics
 WRO ® Future Engineers: This involves creating a robot based on our creativity, which can navigate a track for three laps with different obstacles, avoid walls, and park the robot. The robot also needs to solve specific challenges on a track based on the year's theme and age group.
