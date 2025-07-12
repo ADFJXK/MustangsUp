@@ -16,7 +16,8 @@ Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de fut
    - [Estructura del Robot de Mustangs Up](#Estructura-del-Robot-de-Mustangs-Up)
 
 `Componentes`: Contiene los componentes del Robot. Incluye tambien una descripción breve de los componentes y sus funciones.
-    - [Components](#Components)
+    
+ - [Components](#Components)
 - [Robot Track Practice](#robot-track-practice)
 - [Programming](#programming)
 - [Mission Robotics](#mission-robotics)
