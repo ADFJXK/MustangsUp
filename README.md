@@ -26,10 +26,12 @@ Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de fut
  
 - [Programación](#Programación)
 ----
-## Know THE Team
-## Javier Figueira
-![Javier F.](https://github.com/user-attachments/assets/6a9762ae-b1dd-430e-a2d1-2f63d37327ef)
+## Conoce al Equipo
 
+## Javier Figueira
+<p>
+   <img scr= "![Javier F.](https://github.com/user-attachments/assets/6a9762ae-b1dd-430e-a2d1-2f63d37327ef)" width= "1000">
+</p>
 I am Javier Figueira, I'm 17 years of age, I turn 18 in may 15 and Im in eleventh grade. I have two brothers who are older than me. I think that robotics is a interesting and unique hobby where you can learn a lot of things, like programming or building the robot. I also do karate and music outside of the school. Im in two bands right now, with those being: Asther and The Crickets. I also teach karate classes every monday, wednesday and friday. Although teaching can be kinda hard, I still love teaching karate.
 ## Mariano Pertuz
 ![Mariano Pertruz](https://github.com/user-attachments/assets/50dce4f0-bf44-47d2-9be6-9e5e9cbb00c2)
