@@ -89,6 +89,7 @@ Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programaci�
 Video del robot aqui.
 
 Pracitca: Probar el robot en la pista oficial de la competencia.
+
 Objetivo: Verificar que todos los componentes y funciones del robot funcionen correctamente.
 
 
