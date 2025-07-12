@@ -5,10 +5,12 @@ Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de fut
 ## Tabla de Contenido
    `t-photos`: Contiene 2 fotos del equipo, una oficial y una divertida. Tambien contiene una foto individual de cada intengrante del equipo.
    `Integrantes`: Contiene una descripción breve de cada persona del equipo y del coach. mas la foto individual de la persona en cuestión.
-    - [Javier Figueira](#javier-figueira)
-    - [Mariano Pertuz](#mariano-pertuz)
-    - [Juan Dario Smith](#juan-dario-smith)
-    - [Coach Victor](#coach-victor)
+
+ - [Javier Figueira](#javier-figueira)
+ - [Mariano Pertuz](#mariano-pertuz)
+ - [Juan Dario Smith](#juan-dario-smith)
+ - [Coach Victor](#coach-victor)
+
    `Estructura del robot`: Contiene la estuctura del robot, donde esta ubicado cada componentne del robot.
    - [Estructura del Robot de Mustangs Up](#Estructura-del-Robot-de-Mustangs-Up)
    `Componentes`: Contiene los componentes del Robot. Incluye tambien una descripción breve de los componentes y sus funciones.
