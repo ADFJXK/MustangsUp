@@ -3,7 +3,6 @@
 Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
 
 ## Tabla de Contenido
-`t-photos`: Contiene 2 fotos del equipo, una oficial y una divertida. Tambien contiene una foto individual de cada intengrante del equipo.
 `Integrantes`: Contiene una descripción breve de cada persona del equipo y del coach. mas la foto individual de la persona en cuestión.
 
  - [Javier Figueira](#javier-figueira)
@@ -13,13 +12,21 @@ Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de fut
 
 `Estructura del robot`: Contiene la estuctura del robot, donde esta ubicado cada componentne del robot.
 
-   - [Estructura del Robot de Mustangs Up](#Estructura-del-Robot-de-Mustangs-Up)
+ - [Estructura del Robot de Mustangs Up](#Estructura-del-Robot-de-Mustangs-Up)
 
 `Componentes`: Contiene los componentes del Robot. Incluye tambien una descripción breve de los componentes y sus funciones.
     
  - [Components](#Components)
+
+ `Practica del Robot`: Contiene el video del funcionamiento del robot en la pista oficial de la competencia.
+
 - [Robot Track Practice](#robot-track-practice)
+
+ `Programación`: Describe la programacíon del robot, detallando cada parte de la programación y como todo se lleva a cabo.
+ 
 - [Programming](#programming)
+
+  
 - [Mission Robotics](#mission-robotics)
 
 ## Know THE Team
