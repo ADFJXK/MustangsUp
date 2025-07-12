@@ -43,9 +43,6 @@ Me llamo Juan Darío Smith y tengo 15 años. Disfruto del fútbol y el voleibol.
 
 ## Estructura del Robot de Mustangs Up
 
-| Quantity | Status                             | Description
-                  |
-| ---------| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------|
 ----
 
 Description of each part
