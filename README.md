@@ -1,5 +1,5 @@
  ## Mustangs Up
- ====
+ 
  <p align="center">
   <img scr="![Copia de Header NewMustang](https://github.com/user-attachments/assets/8368cc51-1307-4b1d-b03f-7d5384f28f62)" alt= "Demo animation">
  </p>
