@@ -3,7 +3,8 @@
 Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
 
 ## Tabla de Contenido
-- `t-photos`: 
+- `t-photos`: Contiene 2 fotos del equipo, una oficial y una divertida. Tambien contiene una foto individual de cada intengrante del equipo.
+   `Integrantes`: Contiene una descripción breve de cada persona del equipo, mas la foto individual de la persona en cuestión.
     - [Javier Figueira](#javier-figueira)
     - [Mariano Pertuz](#mariano-pertuz)
     - [Juan Dario Smith](#juan-dario-smith)
