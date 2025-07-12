@@ -1,4 +1,4 @@
- ## Mustangs Up
+## Mustangs Up
 ![Mustangs Up gif](https://github.com/user-attachments/assets/d61a7eba-408e-40a7-ac50-2b72d286a147)
 
 Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
@@ -48,6 +48,19 @@ Me llamo Juan Darío Smith y tengo 15 años. Disfruto del fútbol y el voleibol.
 Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programación educativa con LEGO SPIKE en el Colegio Panamericano. Lideré el proyecto escolar de robótica durante 4 años con el objetivo de convertirme en campeón nacional en Panamá y consolidarme a nivel internacional. Disfruto de la carpintería y los videojuegos.
 
 ## Estructura del Robot de Mustangs Up
+
+| Arriba | Abajo |
+|--------|---------|
+|<img width="1600" height="965" alt="image" src="https://github.com/user-attachments/assets/b2a17122-3d98-4ad0-8ff7-4d23bbda7209" /> | <img width="1600" height="1008" alt="image" src="https://github.com/user-attachments/assets/9c896d4d-b2b3-4b75-9062-032b4b9f3dbc" />|
+
+| Lado Izquierdo | Lado Derecho |
+|--------|---------|
+| <img width="1600" height="992" alt="image" src="https://github.com/user-attachments/assets/de03ae2a-354d-4e5b-b18e-db5570faed0e" /> |<img width="1600" height="874" alt="image" src="https://github.com/user-attachments/assets/bdc6acb6-8e5f-441f-9701-c8d4464cbabc" /> |
+
+| Adelante | Atras |
+|--------|---------|
+|<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4f254944-04a2-49cd-891a-462ad2397913" /> | <img width="1600" height="1008" alt="image" src="https://github.com/user-attachments/assets/6d09a132-21dd-4696-ac24-b12a5fb35eec" /> |
+
 
 ----
 
