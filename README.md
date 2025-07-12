@@ -25,10 +25,7 @@ Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de fut
  `Programación`: Describe la programacíon del robot, detallando cada parte de la programación y como todo se lleva a cabo.
  
 - [Programming](#programming)
-
-  
-- [Mission Robotics](#mission-robotics)
-
+----
 ## Know THE Team
 ## Javier Figueira
 ![Javier F.](https://github.com/user-attachments/assets/6a9762ae-b1dd-430e-a2d1-2f63d37327ef)
