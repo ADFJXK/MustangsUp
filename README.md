@@ -29,18 +29,15 @@ Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de fut
 ## Conoce al Equipo
 
 ## Javier Figueira
-<img scr=![1751462941153](https://github.com/user-attachments/assets/8e0b5566-e138-4edc-923f-8802495467c9) width="500" height="700">
+Soy Javier Figueira, tengo 17 años, cumplo 18 el 15 de mayo y estoy en undécimo grado. Tengo dos hermanos mayores que yo. Creo que la robótica es un pasatiempo interesante y único donde se pueden aprender muchas cosas, como programar o construir robots. También practico karate y música fuera de la escuela. Actualmente estoy en dos grupos musicales: Asther y The Crickets. También doy clases de karate todos los lunes, miércoles y viernes. Aunque enseñar puede ser un poco difícil, me encanta enseñar karate.
 
-I am Javier Figueira, I'm 17 years of age, I turn 18 in may 15 and Im in eleventh grade. I have two brothers who are older than me. I think that robotics is a interesting and unique hobby where you can learn a lot of things, like programming or building the robot. I also do karate and music outside of the school. Im in two bands right now, with those being: Asther and The Crickets. I also teach karate classes every monday, wednesday and friday. Although teaching can be kinda hard, I still love teaching karate.
 ## Mariano Pertuz
-![Mariano Pertruz](https://github.com/user-attachments/assets/50dce4f0-bf44-47d2-9be6-9e5e9cbb00c2)
+Me llamo Mariano Pertuz. Tengo 15 años y disfruto jugando videojuegos. También me gusta aprender más sobre robótica. En mi tiempo libre, practico jiu-jitsu. En clase, me esfuerzo por estudiar y aprender de mis errores. De pequeño, practicaba natación y gané medallas, pero con el tiempo la natación dejó de gustarme y la dejé.
 
-My name is Mariano Pertuz. I am 15 years old, and I enjoy playing video games. I also like to learn more about robotics. In my free time, I practice jiu-jitsu. During class time, I strive to study and learn from my mistakes. When I was little, I practiced swimming and won swimming medals, but over time I started to not like swimming anymore, and I left it behind.
 ## Juan Dario Smith
-![Juan Dario](https://github.com/user-attachments/assets/087a0ec3-61d7-4100-817c-94badf288dd0)
-
-My name is Juan Darío Smith, and I'm 15 years old. I enjoy soccer and volleyball. I'm also part of my Robotics and Debate groups. I'm in the 10th grade of PAS Sciences. I'm enthusiastic, fun, and a good teammate who helps my classmates. I'm cheerful, I enjoy traveling, playing video games, and spending time with my family.
+Me llamo Juan Darío Smith y tengo 15 años. Disfruto del fútbol y el voleibol. También formo parte de mis grupos de Robótica y Debate. Estoy en 10.º grado de Ciencias de la Educación Primaria. Soy entusiasta, divertido y un buen compañero que ayuda a sus compañeros. Soy alegre, disfruto viajar, jugar videojuegos y pasar tiempo con mi familia.
 ## Coach Victor
+
 ![Coach Victor ](https://github.com/user-attachments/assets/14083c9a-3e14-4f7c-affd-07145e2c2163)
 ----
 
