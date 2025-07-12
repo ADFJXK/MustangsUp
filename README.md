@@ -1,7 +1,7 @@
  ## Mustangs Up
  
  <p align="center">
-  <img scr="https://github.com/user-attachments/assets/8368cc51-1307-4b1d-b03f-7d5384f28f62)" alt= "Demo animation">
+  <img scr=""alt= "Demo animation">
  </p>
 
 Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
