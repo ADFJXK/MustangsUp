@@ -1,4 +1,4 @@
-## Mustangs Up
+ ## Mustangs Up
 ![Copia de Header NewMustang](https://github.com/user-attachments/assets/d433234c-5a57-458c-8d59-06956fef3229)
 Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
 
@@ -42,7 +42,7 @@ Me llamo Juan Darío Smith y tengo 15 años. Disfruto del fútbol y el voleibol.
 ----
 
 ## Estructura del Robot de Mustangs Up
-Prototype
+Prototipo
 ![1](https://github.com/user-attachments/assets/beb112f1-44ea-499a-a354-d555bb66d4ee)
 ----
 
