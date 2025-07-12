@@ -2,8 +2,8 @@
 ![Copia de Header NewMustang](https://github.com/user-attachments/assets/d433234c-5a57-458c-8d59-06956fef3229)
 Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
 
-## Table of Contents
-- [Meet Our Team](#meet-our-team)
+## Tabla de Contenido
+- `t-photos`: 
     - [Javier Figueira](#javier-figueira)
     - [Mariano Pertuz](#mariano-pertuz)
     - [Juan Dario Smith](#juan-dario-smith)
