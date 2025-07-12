@@ -1,5 +1,5 @@
 # Mustangs Up
-(https://github.com/user-attachments/assets/33cdcc31-b632-4904-91d7-6e4c00066630)
+![Copia de Header NewMustang](https://github.com/user-attachments/assets/da24408b-f4ed-4888-8129-96d83572d6fc)
 
 Mustangs Up is a Robotics team created to participate in WRO in the category of Future Engineers 
 
