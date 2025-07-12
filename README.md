@@ -30,17 +30,22 @@ Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de fut
 ## Conoce al Equipo
 
 ## Javier Figueira
+![Javier F](https://github.com/user-attachments/assets/cf0be97d-2eeb-46bf-8ed8-b62f9034217a)
+
 Soy Javier Figueira, tengo 17 años, cumplo 18 el 15 de mayo y estoy en undécimo grado. Tengo dos hermanos mayores que yo. Creo que la robótica es un pasatiempo interesante y único donde se pueden aprender muchas cosas, como programar o construir robots. También practico karate y música fuera de la escuela. Actualmente estoy en dos grupos musicales: Asther y The Crickets. También doy clases de karate todos los lunes, miércoles y viernes. Aunque enseñar puede ser un poco difícil, me encanta enseñar karate.
 
 ## Mariano Pertuz
+![Mariano](https://github.com/user-attachments/assets/edc60eec-4d42-4285-827d-a788518f2ddf)
+
 Me llamo Mariano Pertuz. Tengo 15 años y disfruto jugando videojuegos. También me gusta aprender más sobre robótica. En mi tiempo libre, practico jiu-jitsu. En clase, me esfuerzo por estudiar y aprender de mis errores. De pequeño, practicaba natación y gané medallas, pero con el tiempo la natación dejó de gustarme y la dejé.
 
 ## Juan Dario Smith
+![Juan Dario](https://github.com/user-attachments/assets/bdf9deba-2c47-4d17-9ae2-37acf8ea4f44)
+
 Me llamo Juan Darío Smith y tengo 15 años. Disfruto del fútbol y el voleibol. También formo parte de mis grupos de Robótica y Debate. Estoy en 10.º grado de Ciencias de la Educación Primaria. Soy entusiasta, divertido y un buen compañero que ayuda a sus compañeros. Soy alegre, disfruto viajar, jugar videojuegos y pasar tiempo con mi familia.
 ## Coach Victor
-
-![Coach Victor ](https://github.com/user-attachments/assets/14083c9a-3e14-4f7c-affd-07145e2c2163)
-----
+<img width="1600" height="720" alt="Coach" src="https://github.com/user-attachments/assets/92d10ba1-3f2c-4bdb-a31e-39aab0152418" />
+Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programación educativa con LEGO SPIKE en el Colegio Panamericano. Lideré el proyecto escolar de robótica durante 4 años con el objetivo de convertirme en campeón nacional en Panamá y consolidarme a nivel internacional. Disfruto de la carpintería y los videojuegos.
 
 ## Estructura del Robot de Mustangs Up
 
