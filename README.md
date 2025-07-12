@@ -1,4 +1,6 @@
-# Mustangs Up
+## Mustangs Up
+
+<p align="center">
 ![Copia de Header NewMustang](https://github.com/user-attachments/assets/da24408b-f4ed-4888-8129-96d83572d6fc)
 Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
 
