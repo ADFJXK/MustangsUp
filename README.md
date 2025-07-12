@@ -3,14 +3,16 @@
 Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
 
 ## Tabla de Contenido
-- `t-photos`: Contiene 2 fotos del equipo, una oficial y una divertida. Tambien contiene una foto individual de cada intengrante del equipo.
-   `Integrantes`: Contiene una descripción breve de cada persona del equipo, mas la foto individual de la persona en cuestión.
+   `t-photos`: Contiene 2 fotos del equipo, una oficial y una divertida. Tambien contiene una foto individual de cada intengrante del equipo.
+   `Integrantes`: Contiene una descripción breve de cada persona del equipo y del coach. mas la foto individual de la persona en cuestión.
     - [Javier Figueira](#javier-figueira)
     - [Mariano Pertuz](#mariano-pertuz)
     - [Juan Dario Smith](#juan-dario-smith)
     - [Coach Victor](#coach-victor)
-- [Structure of the New Mustang Robot](#structure-of-the-MustangsUp-robot)
-- [Components](#Components)
+   `Estructura del robot`: Contiene la estuctura del robot, donde esta ubicado cada componentne del robot.
+   - [Estructura del Robot de Mustangs Up](#Estructura-del-Robot-de-Mustangs-Up)
+   `Componentes`: Contiene los componentes del Robot. Incluye tambien una descripción breve de los componentes y sus funciones.
+    - [Components](#Components)
 - [Robot Track Practice](#robot-track-practice)
 - [Programming](#programming)
 - [Mission Robotics](#mission-robotics)
@@ -32,7 +34,7 @@ My name is Juan Darío Smith, and I'm 15 years old. I enjoy soccer and volleybal
 ![Coach Victor ](https://github.com/user-attachments/assets/14083c9a-3e14-4f7c-affd-07145e2c2163)
 ----
 
-## Structure of the Mustangs Up Robot
+## Estructura del Robot de Mustangs Up
 Prototype
 ![1](https://github.com/user-attachments/assets/beb112f1-44ea-499a-a354-d555bb66d4ee)
 ----
