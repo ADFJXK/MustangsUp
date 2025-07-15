@@ -66,7 +66,7 @@ Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programaci�
 
 ## Ubucación de Componentes
 
-<img width="431" height="242" alt="image" src="https://github.com/user-attachments/assets/9e47d65b-ecb7-4d27-8c16-3bb9ad88edba" />
+<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/9e47d65b-ecb7-4d27-8c16-3bb9ad88edba" />
 
 ----
 ## Componentes del Robot:
@@ -83,6 +83,7 @@ Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programaci�
 |`Sensor ultrasónico`| Mide la distancia a los obstáculos. |![Distancia](https://github.com/user-attachments/assets/4a6eb76c-e943-49e6-9707-8827d9cda405) |
 | | | |
 |`Ruedas y neumáticos`| Proporcionan tracción y movilidad. Conectados a los motores de accionamiento. | <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f827990a-e944-4250-83f2-8c5af85ef097" /> |
+| | | |
 
 ----
  ## Practica del Robot
@@ -97,7 +98,7 @@ Objetivo: Verificar que todos los componentes y funciones del robot funcionen co
 
 ## Programación
 ![Captura de pantalla 2025-07-03 103554](https://github.com/user-attachments/assets/26901d34-6b68-42ce-a865-ab0b2a5d7cd6)
-El programa tiene tres funciones principales que hacen funcionar al robot.
+El programa tiene `tres` funciones principales que hacen funcionar al robot.
 1. Cuando el robot detecta una distancia de 80 cm en el sensor ultrasónico F y la distancia del sensor ultrasónico D es menor a 70 cm, gira a la izquierda.
 2. Cuando el robot detecta una distancia de 80 cm en el sensor ultrasónico F y la distancia del sensor ultrasónico D es menor a 70 cm, gira a la derecha.
 3. Cuando el robot gira a la izquierda o a la derecha, lo hace a una velocidad específica y luego continúa con su programa.
