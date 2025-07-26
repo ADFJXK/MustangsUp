@@ -1,7 +1,7 @@
 ## Mustangs Up
 ![Mustangs Up gif](https://github.com/user-attachments/assets/d61a7eba-408e-40a7-ac50-2b72d286a147)
 
-Mustangs Up es un equipo de robotica que esta compitiendo en la categoria de futuros ingenieros en la competencia de World Robot Olympian.
+Mustangs Up es un equipo de robótica que está compitiendo en la categoría de futuros ingenieros en la competencia de World Robot Olympiad.
 
 ## Tabla de Contenido
 `Integrantes:` Contiene una descripción breve de cada persona del equipo y del coach. mas la foto individual de la persona en cuestión.
