@@ -11,19 +11,19 @@ Mustangs Up es un equipo de robótica que está compitiendo en la categoría de 
  - [Juan Dario Smith](#juan-dario-smith)
  - [Coach Victor](#coach-victor)
 
-`Estructura del robot:` Contiene la estuctura del robot, donde esta ubicado cada componentne del robot.
+`Estructura del robot:` Contiene la estructura del robot, donde está ubicado cada componente del robot.
 
  - [Estructura del Robot de Mustangs Up](#Estructura-del-Robot-de-Mustangs-Up)
 
-`Componentes del Robot:` Contiene los componentes del Robot. Incluye tambien una descripción breve de los componentes y sus funciones.
+`Componentes del Robot:` Contiene los componentes del Robot. Incluye también una descripción breve de los componentes y sus funciones.
     
  - [Componentes](#Componentes-del-Robot)
 
- `Practica del Robot:` Contiene el video del funcionamiento del robot en la pista oficial de la competencia.
+ `Práctica del Robot:` Contiene el video del funcionamiento del robot en la pista oficial de la competencia.
 
-- [Practica del Robot](#Practica-del-Robot)
+- [Práctica del Robot](#Practica-del-Robot)
 
- `Programación:` Describe la programacíon del robot, detallando cada parte de la programación y como todo se lleva a cabo.
+ `Programación:` Describe la programacíón del robot, detallando cada parte de la programación y como todo se lleva a cabo.
  
 - [Programación](#Programación)
 ----
@@ -42,7 +42,7 @@ Me llamo Mariano Pertuz. Tengo 15 años y disfruto jugando videojuegos. También
 ## Juan Dario Smith
 ![Juan Dario](https://github.com/user-attachments/assets/bdf9deba-2c47-4d17-9ae2-37acf8ea4f44)
 
-Me llamo Juan Darío Smith y tengo 15 años. Disfruto del fútbol y el voleibol. También formo parte de mis grupos de Robótica y Debate. Estoy en 10.º grado de Ciencias de la Educación Primaria. Soy entusiasta, divertido y un buen compañero que ayuda a sus compañeros. Soy alegre, disfruto viajar, jugar videojuegos y pasar tiempo con mi familia.
+Me llamo Juan Darío Smith y tengo 15 años. Disfruto del fútbol y el voleibol. También formó parte de mis grupos de Robótica y Debate. Estoy en 10.º grado de Ciencias de la Educación Primaria. Soy entusiasta, divertido y un buen compañero que ayuda a sus compañeros. Soy alegre, disfruto viajar, jugar videojuegos y pasar tiempo con mi familia.
 ## Coach Victor
 <img width="1600" height="720" alt="Coach" src="https://github.com/user-attachments/assets/92d10ba1-3f2c-4bdb-a31e-39aab0152418" />
 Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programación educativa con LEGO SPIKE en el Colegio Panamericano. Lideré el proyecto escolar de robótica durante 4 años con el objetivo de convertirme en campeón nacional en Panamá y consolidarme a nivel internacional. Disfruto de la carpintería y los videojuegos.
