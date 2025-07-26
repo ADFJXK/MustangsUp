@@ -51,22 +51,23 @@ Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programaci�
 
 | Arriba | Abajo |
 |--------|---------|
-|<img width="1600" height="965" alt="image" src="https://github.com/user-attachments/assets/b2a17122-3d98-4ad0-8ff7-4d23bbda7209" /> | <img width="1600" height="1008" alt="image" src="https://github.com/user-attachments/assets/9c896d4d-b2b3-4b75-9062-032b4b9f3dbc" />|
+|<img width="1600" height="965" alt="image" src="https://github.com/user-attachments/assets/9ccca714-4c02-42db-abd5-edde0fed232a" /> | <img width="1600" height="1008" alt="image" src="https://github.com/user-attachments/assets/b2605a19-933d-4925-8ee0-e9f4bdfa290d" />|
 
 | Lado Izquierdo | Lado Derecho |
 |--------|---------|
-| <img width="1600" height="992" alt="image" src="https://github.com/user-attachments/assets/de03ae2a-354d-4e5b-b18e-db5570faed0e" /> |<img width="1600" height="874" alt="image" src="https://github.com/user-attachments/assets/bdc6acb6-8e5f-441f-9701-c8d4464cbabc" /> |
+| <img width="1600" height="992" alt="image" src="https://github.com/user-attachments/assets/8e9e3981-5def-402c-a063-bf95eb5058b6" /> |<img width="1600" height="874" alt="image" src="https://github.com/user-attachments/assets/f70464a5-a0f9-4de2-8969-6882a1f53de1" /> |
 
 | Adelante | Atras |
 |--------|---------|
-|<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4f254944-04a2-49cd-891a-462ad2397913" /> | <img width="1600" height="1008" alt="image" src="https://github.com/user-attachments/assets/6d09a132-21dd-4696-ac24-b12a5fb35eec" /> |
+|<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/9d313b6b-bcf9-4e11-a746-211fe831df91" /> | <img width="1600" height="1008" alt="image" src="https://github.com/user-attachments/assets/71607b4f-42d4-4276-b922-5fc65eb2a68f" /> |
 
 
 ----
 
 ## Ubucación de Componentes
 
-<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/9e47d65b-ecb7-4d27-8c16-3bb9ad88edba" />
+<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/b01d5617-be04-4f83-bae2-1bc33c19b0b9" />
+
 
 ----
 ## Componentes del Robot:
@@ -74,7 +75,7 @@ Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programaci�
 |--------|---------|---------|
 |`Unidad Central (Hub)`| Cerebro del robot. Recibe y procesa los datos de los sensores y envía comandos a los motores. | ![Hub](https://github.com/user-attachments/assets/e2ce97b4-7b3c-43fe-bf80-9ca0981c42a9) |
 | | | |
-|`Motor de Transmición`| Inicia el movimiento del robot. | ![Motor](https://github.com/user-attachments/assets/a471900f-652c-4c3a-a040-767be80853a9) |
+|`Motor de Transmisión`| Inicia el movimiento del robot. | ![Motor](https://github.com/user-attachments/assets/a471900f-652c-4c3a-a040-767be80853a9) |
 | | | |
 |`Motor Direccional`| Motor de dirección (Motor de control de dirección): Controla la dirección del robot. |![Dirección](https://github.com/user-attachments/assets/219c5345-10a8-4694-9a05-435e56a9a57b) |
 | | | |
@@ -86,10 +87,10 @@ Hola, soy Víctor Sánchez, profesor de robótica con experiencia en programaci�
 | | | |
 
 ----
- ## Practica del Robot
-Video del robot aqui.
+ ## Práctica del Robot
+Video del robot aquí.
 
-Pracitca: Probar el robot en la pista oficial de la competencia.
+Prácitca: Probar el robot en la pista oficial de la competencia.
 
 Objetivo: Verificar que todos los componentes y funciones del robot funcionen correctamente.
 
@@ -103,7 +104,7 @@ El programa tiene `tres` funciones principales que hacen funcionar al robot.
 2. Cuando el robot detecta una distancia de 80 cm en el sensor ultrasónico F y la distancia del sensor ultrasónico D es menor a 70 cm, gira a la derecha.
 3. Cuando el robot gira a la izquierda o a la derecha, lo hace a una velocidad específica y luego continúa con su programa.
 ----
-## Mission Robotics
+## Descripción de la Categoría
 Futuros Ingenieros WRO®: Esto implica crear un robot basado en nuestra creatividad, capaz de recorrer tres vueltas en una pista con diferentes obstáculos, evitar muros y estacionar. El robot también debe resolver desafíos específicos en una pista según la temática y la edad del año.
 ----
 
